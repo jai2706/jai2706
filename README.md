@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jai Vaidya
-- 👀 I’m interested in Blockchain Development, Cryptocurrencies and Data Structures and Algorithms
-- 🌱 I’m currently learning Blockchain Development and Data Structures and Algorithms
-- 💞️ I’m looking to for an internship in Blockchain Development
+- 👋 Hi, I’m Jai Vaidya, a third-year undergraduate pursuing a B.Tech course at IIT Kharagpur
+- 👀 I’m interested in Machine Learning, Quantitative Finance, Competitive Programming, Data Structures and Algorithms and Backend Development.
+- 🌱 I’m currently enhancing my skills in all of them and am looking fr internships, both corporate and research in the above fields.
+- 💞️ I'll be interning at Publicis Sapient as a Data Science Associate for the summers of 2023.
 - 📫 You can connect with me via LinkedIn : https://www.linkedin.com/in/jai2706/
 
 <!---
