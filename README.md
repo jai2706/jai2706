@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Jai Vaidya, a third-year undergraduate pursuing a B.Tech course at IIT Kharagpur
-- 👀 I’m interested in Machine Learning, Quantitative Finance, Competitive Programming, Data Structures and Algorithms and Backend Development.
-- 🌱 I’m currently enhancing my skills in all of them, and am looking for internships, both corporate and research, in the above fields.
-- 💞️ I'll be interning at Publicis Sapient as a Data Science Associate for the summer of 2023.
+- 👋 Hi, I’m Jai Vaidya, a fourth and final-year undergraduate pursuing a B.Tech course at IIT Kharagpur
+- 👀 I have a strong grasp of Data Structures and Algorithms in C++ and have pursued a few projects with the primary languages being C++ and Python.
+- 🌱 I’m currently enhancing my skills in Machine Learning, Quantitative Finance, Competitive Programming, and Hard Data Structures and Algorithms.
+- 💞️ I interned at Publicis Sapient as a Data Science and Analytics Intern for the summer of 2023.
 - 📫 You can connect with me via LinkedIn : https://www.linkedin.com/in/jai2706/
 
 <!---
